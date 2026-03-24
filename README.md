@@ -1,4 +1,4 @@
-# Hola! Soy Rijan Maharjan
+# I am Rijan Maharjan
 
 
 ## 📊 GitHub Stats
