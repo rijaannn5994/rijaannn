@@ -1,2 +1,3 @@
 # rijaannn
-My personal Repository
+I am Rijan Maharjan
+
