@@ -1,5 +1,4 @@
-# rijaannn
-I am Rijan Maharjan
+# Hola! Soy Rijan Maharjan
 
 
 ## 📊 GitHub Stats
